@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/ext4mage_orders2csv",
+    "name": "openmage-module-fostering\/ext4mage_orders2csv",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Export your orders to CSV with easy. Setup the file as you like with more than 125 variables available. ",
     "authors": [
